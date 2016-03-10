@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/ashleydavis/nodejs-azure-deployment-test#readme",
   "dependencies": {
-    "express": "^4.13.4"
+    "express": "^4.13.4",
+    "moment": "^2.12.0"
   }
 }
