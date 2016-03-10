@@ -3,7 +3,7 @@ var express = require('express');
 
 var app = express();
 
-var staticPath = path.join(__dirname, '../Client');
+var staticPath = path.join(__dirname, './static');
 console.log(staticPath);
 app.use(express.static(staticPath));
 
