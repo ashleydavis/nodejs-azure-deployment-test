@@ -1,0 +1,21 @@
+{
+  "name": "web-client",
+  "homepage": "https://github.com/ashleydavis/nodejs-azure-deployment-test",
+  "authors": [
+    "ashley@codecapers.com.au"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.4"
+  }
+}
